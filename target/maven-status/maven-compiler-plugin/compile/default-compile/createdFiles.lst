@@ -1,0 +1,3 @@
+org/camunda/bpm/CheckCustomerDelegate.class
+org/camunda/bpm/CreateOrderDelegate.class
+org/camunda/bpm/getstarted/WebappExampleProcessApplication.class
